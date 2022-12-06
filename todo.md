@@ -33,7 +33,7 @@
 
 # TODO Adjustments in aws-serverless
 
-1. as in awsecs (maybe others), these env vars should be updated to be prepended with "METRIST_" and populated by extra-config rather than process.env:
+1. TOTUL-->KA=(=Kias in awsecs (maybe others), these env vars should be updated to be prepended with "METRIST_" and populated by extra-config rather than process.env:
 
 AWS_ACCESS_KEY_ID
 AWS_SECRET_ACCESS_KEY
